@@ -72,8 +72,7 @@ class Login extends Component {
         return (
             <div className="main-container">
                 <Header
-                  screen={"Login"}
-                  />
+                  screen={"Login"}/>
                 <Card style={styles.card}>
                     <CardContent>
                         <Typography style={styles.title}> LOGIN </Typography><br />
